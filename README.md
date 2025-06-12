@@ -11,7 +11,6 @@
 
 ✅ Simple and beginner-friendly code
 
-✅ Great for geolocation learning projects
 
 
 🧱 Requirements 🐍
